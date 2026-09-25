@@ -6,13 +6,13 @@ Team leads and solo devs installing agent skills (Claude Code / Cursor / Codex /
 
 | Competitor | Stars | What it does | What it lacks |
 |---|---|---|---|
-| https://github.com/NVIDIA/SkillSpector | 9.8k | Vuln scanner for skills | No fix, no score/badge, no CI gate |
-| https://github.com/cloudflare/security-audit-skill | ~0.5k | Single-vendor audit playbook as skill | Single playbook, no neutral scoring |
-| https://github.com/anthropics/launch-your-agent | ~0.5k | Ship-to-managed-agent onboarding | No pre-launch trust gate |
+| https://github.com/NVIDIA/SkillSpector | 18.2k (2026-09-25) | Vuln scanner for skills | No fix, no score/badge, no CI gate |
+| https://github.com/cloudflare/security-audit-skill | 21.4k (2026-09-25) | Single-vendor audit playbook as skill | Single playbook, no neutral scoring |
+| https://github.com/anthropics/launch-your-agent | ~1.0k (2026-09-25) | Ship-to-managed-agent onboarding | No pre-launch trust gate |
 
 ## Differentiation (one paragraph — why a new repo wins)
 
-A neutral, single-binary trust gate that closes the loop: **lint → sandbox trial-run → permission manifest → 0-100 score + badge → CI gate that blocks risky installs**. Scanners tell you something is wrong; this tells you whether to install, fixes the obvious parts (minimal-permission rewrite suggestions), and gives teams a badge to require in PRs. Positioned as the missing step inside Anthropic's launch path and Cloudflare's audit story, not a competitor to either.
+A neutral trust gate that closes the loop: **lint → permission manifest → 0-100 score + badge → CI gate that blocks risky installs**. Scanners tell you something is wrong; this tells you whether to install, fixes the obvious parts (minimal-permission rewrite suggestions), and gives teams a badge to require in PRs. Positioned as the missing step inside Anthropic's launch path and Cloudflare's audit story, not a competitor to either. Starts as a Python CLI (v0.1); single-binary distribution and sandbox trial-run are roadmap (v0.2+), not MVP promises.
 
 ## MVP scope (shippable in 1-2 weeks)
 
@@ -35,7 +35,7 @@ A neutral, single-binary trust gate that closes the loop: **lint → sandbox tri
 
 ## Spin-off link (filled when the new repo launches)
 
-_(empty — new repo goes here, this file only links out)_
+Local skeleton: `../skill-security-linter` (v0.1, 2026-09-25 — rules SS001-SS005, CLI, action, demo; not yet pushed, GitHub URL TBD).
 
 ## 證據與備註（中文可）
 
