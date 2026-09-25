@@ -2,9 +2,9 @@
 
 - Name: NVIDIA/SkillSpector
 - URL: https://github.com/NVIDIA/SkillSpector
-- Stars (as of 2026-09-25): ~9.8k
-- Weekly growth: +3.3k (June)
-- Language / License: Python / —
+- Stars (as of 2026-09-25, verified via GitHub API): ~18.2k
+- Weekly growth: +3.3k (June); roughly doubled since
+- Language / License: Python / Apache-2.0
 - Category: skill (security scanner)
 
 ## What (2-3 sentences)

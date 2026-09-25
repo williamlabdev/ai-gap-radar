@@ -2,7 +2,7 @@
 
 - Name: mattpocock/skills
 - URL: https://github.com/mattpocock/skills
-- Stars (as of 2026-09-25): ~233k
+- Stars (as of 2026-09-25, verified via GitHub API): ~269k
 - Weekly growth: +11.8k (June weekly champion; still trending)
 - Language / License: Shell / MIT
 - Category: skill

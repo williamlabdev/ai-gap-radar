@@ -2,9 +2,9 @@
 
 - Name: anthropics/launch-your-agent
 - URL: https://github.com/anthropics/launch-your-agent
-- Stars (as of 2026-09-25): ~0.5k (new, June 2026)
-- Weekly growth: new-repo velocity
-- Language / License: HTML (docs/skills) / —
+- Stars (as of 2026-09-25, verified via GitHub API): ~1.0k
+- Weekly growth: new-repo velocity; last push 2026-09-23
+- Language / License: HTML (docs/skills) / Apache-2.0
 - Category: skill (onboarding)
 
 ## What (2-3 sentences)

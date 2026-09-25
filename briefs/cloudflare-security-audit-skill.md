@@ -2,9 +2,9 @@
 
 - Name: cloudflare/security-audit-skill
 - URL: https://github.com/cloudflare/security-audit-skill
-- Stars (as of 2026-09-25): ~0.5k (new, June 2026)
-- Weekly growth: new-repo velocity
-- Language / License: JavaScript / —
+- Stars (as of 2026-09-25, verified via GitHub API): ~21.4k
+- Weekly growth: launched ~0.5k (June) → 21.4k by late Sept; last push 2026-09-14
+- Language / License: JavaScript / MIT
 - Category: skill (security audit)
 
 ## What (2-3 sentences)
@@ -14,7 +14,7 @@ Cloudflare's official multi-stage security-audit skill for coding agents. Encode
 ## Why it blew up
 
 - Distribution path: Cloudflare official + "vendor playbook as skill" novelty + new-repo Trending slot.
-- Data point: top-15 new repo in its launch week despite <1k stars.
+- Data point: from ~0.5k at June launch to 21.4k by late Sept (~40x) — the strongest governance-demand signal in this issue.
 - Timing: same governance week as SkillSpector and Anthropic's managed-agent onboarding — platforms claiming the trust layer.
 
 ## License & risk

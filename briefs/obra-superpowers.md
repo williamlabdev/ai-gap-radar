@@ -2,9 +2,9 @@
 
 - Name: obra/superpowers
 - URL: https://github.com/obra/superpowers
-- Stars (as of 2026-09-25): ~276k
+- Stars (as of 2026-09-25, verified via GitHub API): ~291k
 - Weekly growth: +~0.6k/day on Trending
-- Language / License: Shell / MIT-ish
+- Language / License: Shell / MIT
 - Category: skill
 
 ## What (2-3 sentences)
