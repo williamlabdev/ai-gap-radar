@@ -32,6 +32,13 @@ Meanwhile `mattpocock/skills` (+11.8k/week) and `obra/superpowers` keep growing,
 
 Top 5 to read first: `briefs/mattpocock-skills.md`, `briefs/obra-superpowers.md`, `briefs/nvidia-skillspector.md`, `briefs/cloudflare-security-audit-skill.md`, `briefs/anthropics-launch-your-agent.md`. Buildable gap: `opportunities/skill-security-linter.md`.
 
+## How it works (funnel)
+
+Hot repos are evidence, buildable gaps are conclusions. Not every hot repo earns a brief; not every brief yields an opportunity.
+
+- Hot → brief: only if the breakout cause is explainable (numbers + distribution path), not zombie stars.
+- Brief → opportunity: only if the gap supports a competitor table and a 2-week MVP scope. Otherwise it stays a brief.
+
 ## Method
 
 - Sources: GitHub Trending, Trendshift, OSSInsight, ShareuHack weekly, HN
