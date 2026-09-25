@@ -13,7 +13,7 @@ Signal 1: NVIDIA/SkillSpector (~18k) — a scanner reporting ~26% of sampled ski
 Signal 2: cloudflare/security-audit-skill (~21k) — a vendor audit playbook shipped AS a skill, up ~40x since June. "Playbook-as-skill" is now official distribution.
 
 ## 5
-Signal 3: anthropics/launch-your-agent — idea-to-managed-agent onboarding. Platforms are splitting layers: Vercel = framework (Eve), Anthropic = hosting, Cloudflare = audit. Each vendor claims one.
+Signal 3: anthropics/launch-your-agent — idea-to-managed-agent onboarding. Platforms are splitting layers. Vercel ships the framework (Eve). Anthropic runs the hosting. Cloudflare owns the audit.
 
 ## 6
 The gap: scanners tell you something is wrong. Nobody tells you whether to install, fixes the obvious parts, or gives you a badge to require in PRs. Detection without a trust gate.

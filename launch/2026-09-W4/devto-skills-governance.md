@@ -4,7 +4,7 @@ published: false
 tags: ai, opensource, github, llm
 ---
 
-Agent skills had their explosion. `mattpocock/skills` sits at ~269k stars, `obra/superpowers` at ~291k. Every coding agent — Claude Code, Cursor, Codex, OpenCode — now consumes `SKILL.md` files. Distribution is solved.
+Agent skills had their explosion. `mattpocock/skills` sits at ~269k stars, `obra/superpowers` at ~291k. Every coding agent, from Claude Code to OpenCode, now consumes `SKILL.md` files. Distribution is solved.
 
 But here's what happened over the summer of 2026: the skills boom entered its **governance phase**. Three signals landed within weeks of each other, and together they point at the same missing layer.
 
