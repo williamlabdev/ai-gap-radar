@@ -35,7 +35,7 @@ A neutral trust gate that closes the loop: **lint → permission manifest → 0-
 
 ## Spin-off link (filled when the new repo launches)
 
-Local skeleton: `../skill-security-linter` (v0.1, 2026-09-25 — rules SS001-SS005, CLI, action, demo; not yet pushed, GitHub URL TBD).
+https://github.com/williamlabdev/skill-security-linter (v0.1 pushed 2026-09-25 — rules SS001-SS005, CLI, action, demo).
 
 ## 證據與備註（中文可）
 
